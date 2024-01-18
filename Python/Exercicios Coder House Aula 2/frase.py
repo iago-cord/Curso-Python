@@ -1,0 +1,7 @@
+frase = input("Digite uma frase:")
+frase_a = frase.replace('a','*')
+frase_e = frase_a.replace('e','*')
+frase_i = frase_e.replace('i','*')
+frase_o = frase_i.replace('o','*')
+frase_final = frase_o.replace('u','*')
+print(frase_final)
