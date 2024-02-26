@@ -10,7 +10,7 @@ banco de dados e o armazenamento das tabelas nesse banco.
 
 :arrow_right: [Visual Studio Code](https://code.visualstudio.com/download)
 
-:heavy_exclamation_mark:É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py) para que as notificações funcione corretamente. 
+:heavy_exclamation_mark:É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/requirements.txt) para que as notificações funcione corretamente. 
 
 ## :notebook_with_decorative_cover: Bibliotecas Utilizadas
 
