@@ -7,11 +7,10 @@ banco de dados e o armazenamento das tabelas nesse banco.
 ## :pencil: **Pré-requisitos**
 
 :arrow_right: [Python 3](https://www.python.org/downloads/)
+
 :arrow_right: [Visual Studio Code](https://code.visualstudio.com/download)
 
-[!NOTE]
-É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py) para que
-a notifição funcione corretamente. 
+[!NOTE]É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py) para quea notifição funcione corretamente. 
 
 ## :notebook_with_decorative_cover: Bibliotecas Utilizadas
 
