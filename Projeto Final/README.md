@@ -14,7 +14,7 @@ banco de dados e o armazenamento das tabelas nesse banco.
 
 ## :notebook_with_decorative_cover: Bibliotecas Utilizadas
 
-As bibliotecas utilizadas no projeto estão disponiveis no arquivo [requirements.txt]()
+As bibliotecas utilizadas no projeto estão disponiveis no arquivo [requirements.txt](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py)
 Nesse arquivo você pode conferir as bibliotecas e versões utilizadas. 
 
 ## :fuelpump: API's 
