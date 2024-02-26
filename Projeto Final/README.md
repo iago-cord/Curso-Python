@@ -24,12 +24,15 @@ compilar dados sobre diversas áreas do pais.
 **Foram utilizadas 3 API's:**
 
 :arrow_right: [**Corretoras**](https://brasilapi.com.br/api/cvm/corretoras/v1)
+
 Fornece uma lista de todas as corretoras cadastradas na CVM, estando elas ativas ou canceladas. 
 
 :arrow_right: [**Bancos**](https://brasilapi.com.br/api/banks/v1)
+
 Fornece uma lista de todos os bancos operantes no Brasil.
 
 :arrow_right: [**PIX**](https://brasilapi.com.br/api/pix/v1/participants)
+
 Fornece uma lista de todos os bancos participantes do PIX no Brasil.
 
 
