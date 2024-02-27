@@ -1,6 +1,6 @@
 ## **Projeto Final Python**
 
-Projeto final do curso de Python da CoderHouse. Esse projeto tem por objetivo desenvolver um pipeline de dados, ode foram realizados
+Projeto final do curso de Python da CoderHouse. Esse projeto tem por objetivo desenvolver um pipeline de dados, onde foram realizados
 a extração dos dados brutos via API, tratamento dos dados visando obter dados mais consistentes para serem analisados, a criação de um
 banco de dados e o armazenamento das tabelas nesse banco. 
 
@@ -10,11 +10,11 @@ banco de dados e o armazenamento das tabelas nesse banco.
 
 :arrow_right: [Visual Studio Code](https://code.visualstudio.com/download)
 
-:heavy_exclamation_mark:É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/requirements.txt) para que as notificações funcione corretamente. 
+:heavy_exclamation_mark:É necessário baixar o arquivo [notificacao.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/requirements.txt) e [funcoes.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/funcoes.py) para que o código funcione corretamente. 
 
 ## :notebook_with_decorative_cover: Bibliotecas Utilizadas
 
-As bibliotecas utilizadas no projeto estão disponiveis no arquivo [requirements.txt](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py)
+As bibliotecas utilizadas no projeto estão disponiveis no arquivo [requirements.txt](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/requirements.txt)
 Nesse arquivo você pode conferir as bibliotecas e versões utilizadas. 
 
 ## :fuelpump: API's 
