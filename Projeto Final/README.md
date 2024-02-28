@@ -42,8 +42,8 @@ Este projeto está dividido em três arquivos, [Projeto Final.ipynb](https://git
 :arrow_right: Importando tabelas das API's -> função para importar as url's das API's recebe como parametro a url e retorna o request. 
 
 ##### Função
-*def importar (url):
-    return requests.get(url)*
+def importar (url):
+    return requests.get(url)
 
 ##### *Extraindo a tabela banks da API
 *url = "https://brasilapi.com.br/api/banks/v1"*
