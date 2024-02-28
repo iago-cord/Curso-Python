@@ -40,6 +40,8 @@ Fornece uma lista de todos os bancos participantes do PIX no Brasil.
 Este projeto está dividido em três arquivos, [Projeto Final.ipynb](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/Projeto%20Final.ipynb) onde foi realizado a extração e a transformação dos dados, [notificação.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/notificacao.py) que notifica se a importação da API obteve sucesso ou não e [funcoes.py](https://github.com/iago-cord/Curso-Python/blob/main/Projeto%20Final/funcoes.py) onde estão as funções utilizadas para a extração e transformação dos dados. 
 
 :arrow_right: Importando tabelas das API's -> função para importar as url's das API's recebe como parametro a url e retorna o request. 
+
+##### Função
 *def importar (url):
     return requests.get(url)*
 
